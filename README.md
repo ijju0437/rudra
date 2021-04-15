@@ -1,2 +1,2 @@
 # rudra
-this is first repository new one
+this is first repository
