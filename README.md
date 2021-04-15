@@ -1,3 +1,2 @@
 # rudra
-this is first repository
-this is first commit
+this is first repository new one
