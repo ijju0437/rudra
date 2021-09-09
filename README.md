@@ -1,5 +1,3 @@
-# rudra
-this is first repository
 A basic tutorial on running a web app on Tomcat using Docker
 
 Steps
