@@ -1,1 +1,2 @@
-about page os nice have seen diff
+<<<<<<< HEAD
+about page os nice done specifi cmd
