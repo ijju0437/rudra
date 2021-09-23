@@ -1,2 +1,4 @@
 <<<<<<< HEAD
 about page os nice done specifi cmd
+
+jackspokims uut
